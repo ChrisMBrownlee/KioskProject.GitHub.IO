@@ -1,0 +1,11 @@
+C:\Users\MCA\source\repos\Kiosk Group Project\Kiosk Group Project\bin\Debug\netcoreapp2.1\Kiosk Group Project.deps.json
+C:\Users\MCA\source\repos\Kiosk Group Project\Kiosk Group Project\bin\Debug\netcoreapp2.1\Kiosk Group Project.runtimeconfig.json
+C:\Users\MCA\source\repos\Kiosk Group Project\Kiosk Group Project\bin\Debug\netcoreapp2.1\Kiosk Group Project.runtimeconfig.dev.json
+C:\Users\MCA\source\repos\Kiosk Group Project\Kiosk Group Project\bin\Debug\netcoreapp2.1\Kiosk Group Project.dll
+C:\Users\MCA\source\repos\Kiosk Group Project\Kiosk Group Project\bin\Debug\netcoreapp2.1\Kiosk Group Project.pdb
+C:\Users\MCA\source\repos\Kiosk Group Project\Kiosk Group Project\obj\Debug\netcoreapp2.1\Kiosk Group Project.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\Kiosk Group Project\Kiosk Group Project\obj\Debug\netcoreapp2.1\Kiosk Group Project.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\Kiosk Group Project\Kiosk Group Project\obj\Debug\netcoreapp2.1\Kiosk Group Project.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\Kiosk Group Project\Kiosk Group Project\obj\Debug\netcoreapp2.1\Kiosk Group Project.AssemblyInfo.cs
+C:\Users\MCA\source\repos\Kiosk Group Project\Kiosk Group Project\obj\Debug\netcoreapp2.1\Kiosk Group Project.dll
+C:\Users\MCA\source\repos\Kiosk Group Project\Kiosk Group Project\obj\Debug\netcoreapp2.1\Kiosk Group Project.pdb
